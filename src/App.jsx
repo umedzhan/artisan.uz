@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-    <h1>Hello Umed Jala</h1>
+    <h1>Coming soon !</h1>
     </>
   )
 }
